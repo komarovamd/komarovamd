@@ -36,4 +36,8 @@
 )
 
 
-Follow me
+### Follow me
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=blue
+)][Telegram]
+
+[Telegram]: https://t.me/komarovamd
