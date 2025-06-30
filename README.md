@@ -1,6 +1,7 @@
 ![Header](https://github.com/komarovamd/komarovamd/blob/main/assets/1.jpg?raw=true)
 
-## I'm a Junior QA Engineer 
+## Обо мне
+Привет! Меня зовут Мария Комарова, я Junior QA Engineer, занимаюсь ручным тестированием, изучаю автоматизацию на Python. 
 
 ## Languages and Tools
 ![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=Jira&logoColor=blue&color=000000
@@ -41,3 +42,5 @@
 )][Telegram]
 
 [Telegram]: https://t.me/komarovamd
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komarovamd&count_private=true&theme=merko)](https://github.com/komarovamd/github-readme-stats)
